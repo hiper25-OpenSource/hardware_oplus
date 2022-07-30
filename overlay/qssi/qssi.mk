@@ -7,6 +7,7 @@
 PRODUCT_PACKAGES += \
     FrameworksResCommon \
     OPlusWifiResCommon \
+    SettingsResCommon \
     SystemUIResCommon \
     TelephonyResCommon \
     WifiResCommon
